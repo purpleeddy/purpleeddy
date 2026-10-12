@@ -4,13 +4,9 @@ I work on mobile security, and these days most of that work runs through AI agen
 
 > _"Exploits are written by AI agents. Defenses should be too."_
 
-Right now that means mobile VAPT: agent-driven SAST, DAST, and red teaming, to see how far
-agents get against mobile apps and their protections.
+Right now that means mobile VAPT: agent-driven SAST, DAST, and red teaming, to see how far agents get against mobile apps and their protections.
 
-The other half turns it around: checking what agents write. Writing code got fast;
-knowing whether the code does what you asked did not. So I write down what software is
-supposed to do in a form a machine can read, and have a machine check the code against it.
-cladding does that, and LogcatOn is built with it.
+The other half turns it around: checking what agents write. Writing code got fast; knowing whether the code does what you asked did not. So I write down what software is supposed to do in a form a machine can read, and have a machine check the code against it. cladding does that, and LogcatOn is built with it.
 
 #### Building
 
