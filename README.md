@@ -10,6 +10,8 @@ The other half turns it around: checking what agents write. Writing code got fas
 
 #### Building
 
-- **[LogcatOn](https://github.com/purpleeddy/logcat-on-releases)** [![GitHub stars](https://img.shields.io/github/stars/purpleeddy/logcat-on-releases?style=flat&color=gold)](https://github.com/purpleeddy/logcat-on-releases) - Android logcat that follows your app's PID and flags crashes, ANRs, and native faults the moment they happen.
-- **[cladding](https://github.com/purpleeddy/cladding)** [![GitHub stars](https://img.shields.io/github/stars/purpleeddy/cladding?style=flat&color=gold)](https://github.com/purpleeddy/cladding) - An integrity layer for AI-coded software: intent in before the agent writes, a spec check after.
-- **[agents-md-lab](https://github.com/purpleeddy/agents-md-lab)** [![GitHub stars](https://img.shields.io/github/stars/purpleeddy/agents-md-lab?style=flat&color=gold)](https://github.com/purpleeddy/agents-md-lab) - What an AGENTS.md or CLAUDE.md file actually changes: ten files surveyed, one pre-registered experiment.
+| Project | Stars | What it does |
+|---|---|---|
+| **[LogcatOn](https://github.com/purpleeddy/logcat-on-releases)** | [![GitHub stars](https://img.shields.io/github/stars/purpleeddy/logcat-on-releases?style=flat&color=gold)](https://github.com/purpleeddy/logcat-on-releases) | Android logcat that follows your app's PID and flags crashes, ANRs, and native faults the moment they happen. |
+| **[cladding](https://github.com/purpleeddy/cladding)** | [![GitHub stars](https://img.shields.io/github/stars/purpleeddy/cladding?style=flat&color=gold)](https://github.com/purpleeddy/cladding) | An integrity layer for AI-coded software: intent in before the agent writes, a spec check after. |
+| **[agents-md-lab](https://github.com/purpleeddy/agents-md-lab)** | [![GitHub stars](https://img.shields.io/github/stars/purpleeddy/agents-md-lab?style=flat&color=gold)](https://github.com/purpleeddy/agents-md-lab) | What an AGENTS.md or CLAUDE.md file actually changes: ten files surveyed, one pre-registered experiment. |
