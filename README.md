@@ -1,8 +1,6 @@
-### Hi, I'm purpleeddy
+### Exploits are written by AI agents. Defenses should be too.
 
-I work on mobile security, and these days most of that work runs through AI agents.
-
-> _"Exploits are written by AI agents. Defenses should be too."_
+I work on mobile security, and these days most of that work runs through them.
 
 Right now that means mobile VAPT: agent-driven SAST, DAST, and red teaming, to see how far agents get against mobile apps and their protections.
 
